@@ -31,9 +31,20 @@ An explainability-focused simulation platform that models how daily habits and a
 Open to internships, research collaborations, and building real-world systems with motivated teams.
 
 
-- **Email:** [sushanth0951s@gmail.com]
-- **LinkedIn:** [(https://www.linkedin.com/in/sushanth17/)]
-- **Instagram:** [(https://www.instagram.com/sushxnth_17)]
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:sushanth0951s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sushanth17/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sushxnth_17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 | Always open to feedback and collaborations!
