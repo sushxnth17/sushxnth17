@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi, I'm Sushanth!
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Software+Engineer;Building+Real+World+Projects;" />
+</p>
 A Student who enjoys building practical tech projects and experimenting with new ideas in programming. I like creating interactive web applications that makes complex concepts easier to understand. I enjoy learning new technologies, solving real world problems through code, and continuously improving my skills by building and sharing projects on github
 
 
@@ -15,10 +18,7 @@ A Student who enjoys building practical tech projects and experimenting with new
      
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=sushxnth17&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushxnth17&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sushxnth17&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sushxnth17&theme=tokyonight&border_radius=10" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
