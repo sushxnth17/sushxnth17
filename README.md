@@ -15,6 +15,7 @@ A Student who enjoys building practical tech projects and experimenting with new
   1. Virtual Physics Lab Simulator.
   2. Student Digital Twin
   3. Socket Chat App.
+  4. ReadyQueue - Visualizer of CPU process scheduling algorithms.
      
 # 📊 GitHub Stats:
 
