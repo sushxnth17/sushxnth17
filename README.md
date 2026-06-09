@@ -14,33 +14,23 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E3A8A,100:3B82F6&section=footer"/>
 
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+
 
 I'm an Information Science and Engineering student with a strong interest in software development, system design, and educational technology.
 
 I enjoy building applications that simplify complex concepts and make learning more interactive. Most of my projects focus on simulation systems, developer tools, educational platforms, and full-stack web applications.
 
+### Currently Exploring
 
-Currently exploring:
-
-* Full Stack Development
-* Software Engineering
-* System Design
-* AI-powered Educational Tools
-* Scalable Web Applications
+- Full Stack Development
+- Software Engineering
+- System Design
+- AI-powered Educational Tools
+- Scalable Web Applications
 
 
-</td>
-
-<td width="40%">
-  
-<img align="right" alt="Coding" width="450" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-</td>
-</tr>
-</table>
 
 
 #  Socials:
