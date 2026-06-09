@@ -1,82 +1,105 @@
-# ✨ Hi, I'm Sushanth!
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Learn+-+Code+-+Repeat;Aspiring+Software+Engineer;Building+Real-World+Software+Solutions;Exploring+AI+and+System+Design;" alt="Typing SVG" />
-</p>
-I'm an ISE student passionate about building software that solves real-world problems.<br>
-I enjoy designing applications that simplify complex concepts, improve learning experiences, and create meaningful impact. My interests span across Software Development, Web Technologies, System Design, and Interactive Learning Platforms. I continuously improve my skills through hands-on projects and believe that the best way to learn is by building.
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Sushanth%20S&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20|%20Web%20Developer&descAlignY=52&descSize=18"/>
 
-* 🚀 Currently building impactful engineering projects
-* 💻 Learning Full Stack Development and Software Engineering practices
-* 🤖 Interested in EdTech, AI-powered systems, and Simulation Platforms
-* 🛠️ Strong believer in learning by building
-* 🎯 Goal: Contribute to products that create meaningful impact
+<!-- Animated Introduction -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+Full+Stack+Development;Turning+ideas+into+Real+World+Applications" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
+<br/>
+
+<!-- Animated Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E3A8A,100:3B82F6&section=footer"/>
+
+
+<table>
+<tr>
+<td width="60%">
+
+I'm an Information Science and Engineering student with a strong interest in software development, system design, and educational technology.
+
+I enjoy building applications that simplify complex concepts and make learning more interactive. Most of my projects focus on simulation systems, developer tools, educational platforms, and full-stack web applications.
+
+
+Currently exploring:
+
+* Full Stack Development
+* Software Engineering
+* System Design
+* AI-powered Educational Tools
+* Scalable Web Applications
+
+
+</td>
+
+<td width="40%">
+  
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+</td>
+</tr>
+</table>
+
+
+#  Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/sushanth17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sushanth0951s@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge\&logo=gunicorn\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+### Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Deployment
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+---
+
+# Featured Projects
+
+## Virtual Physics Lab Simulator
+- Interactive web-based laboratory for conducting physics experiments digitally through real-time simulations and visualizations.
+
+## Student Digital Twin
+- Live --> https://mirroredminds.streamlit.app/
+- A platform that models student activities, learning behavior, and academic progress to generate actionable insights.
+
+## ReadyQueue
+- Live --> https://ready-queue.vercel.app
+- CPU scheduling simulator supporting multiple scheduling algorithms with visual execution timelines.
+
+## IdeaForge
+- Live --> https://ideafor.netlify.app/
+- Collaborative platform for capturing, organizing, and refining project ideas into structured implementations.
+
+## Socket Chat App
+- Real-time messaging application built using socket programming concepts and client-server architecture.
 
 <br>
 
 ---
 
-# 🌟 Featured Projects
-
-### 🔬 Virtual Physics Lab Simulator
-
-An interactive virtual laboratory that enables students to perform and visualize physics experiments digitally. Designed to make practical learning accessible, engaging, and easy to understand through simulations.
-
-### 👤 Student Digital Twin
-
-A smart platform that models student activities, learning patterns, and academic progress to provide meaningful insights and support data-driven educational experiences.
-
-### 💬 Socket Chat App
-
-A real-time chat application built using socket programming concepts, enabling instant communication between users while demonstrating networking fundamentals.
-
-### ⚙️ ReadyQueue
-
-A visual simulator for CPU scheduling algorithms that helps students understand process scheduling concepts through interactive animations and algorithm comparisons.
-
-### 💡 IdeaForge
-
-A project ideation and collaboration platform that helps users capture, organize, refine, and develop ideas into actionable projects.
-
-<br>
-
----
-
-# 📈 Current Focus
-
-* Full Stack Development
-* Data Structures & Algorithms
-* Software Engineering Practices
-* System Design Fundamentals
-* Building impactful software products
-* Exploring AI-powered applications
-
-<br>
-
----
-
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=sushxnth17\&theme=nightowl\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sushxnth17\&theme=nightowl\&hide_border=false)<br/>
@@ -84,11 +107,27 @@ A project ideation and collaboration platform that helps users capture, organize
 
 ---
 
-## 🎯 Looking Forward To
 
-* Open Source Contributions
-* Software Engineering Internships
-* Collaborating on innovative projects
-* Building technology that creates meaningful impact
+# Current Focus
+
+- Building full-stack applications
+- Strengthening DSA fundamentals
+- Learning system design concepts
+- Exploring AI-assisted software systems
+- Contributing to open source
 
 
+<br>
+
+
+---
+
+
+# Open To
+
+- Software Engineering Internships
+- Open Source Contributions
+- Collaborative Projects
+- Hackathons and Technical Communities
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E3A8A,100:3B82F6&section=footer"/>
