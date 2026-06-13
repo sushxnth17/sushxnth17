@@ -18,9 +18,9 @@
 
 
 
-I'm an Information Science and Engineering student with a strong interest in software development, system design, and educational technology.
+I'm an Information Science and Engineering student who enjoys learning, creating, and exploring technology.
 
-I enjoy building applications that simplify complex concepts and make learning more interactive. Most of my projects focus on simulation systems, developer tools, educational platforms, and full-stack web applications.
+I'm always interested in discovering new concepts, improving my skills, and working on projects that challenge me to grow as a developer.
 
 ### Currently Exploring
 
