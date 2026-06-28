@@ -136,6 +136,5 @@ I'm always interested in discovering new concepts, improving my skills, and work
 - Software Engineering Internships
 - Open Source Contributions
 - Collaborative Projects
-- Hackathons and Technical Communities
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1E3A8A,100:3B82F6&section=footer"/>
