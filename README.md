@@ -103,6 +103,8 @@ I'm always interested in discovering new concepts, improving my skills, and work
 ## Socket Chat App
 - Real-time messaging application built using socket programming concepts and client-server architecture.
 
+## Snake Species Identifier
+- AI-powered snake species identification platform that classifies snakes from uploaded images using TensorFlow and MobileNetV2, providing confidence scores, venom status, species information, and first-aid guidance.
 <br>
 
 ---
