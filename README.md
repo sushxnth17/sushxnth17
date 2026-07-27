@@ -46,7 +46,7 @@ I'm always interested in discovering new concepts, improving my skills, and work
 
 # Tech Stack
 
-
+<div align ="center">
 <h3>Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,c" />
@@ -78,7 +78,7 @@ I'm always interested in discovering new concepts, improving my skills, and work
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify" />
 </p>
-
+</div>
 
 ---
 
