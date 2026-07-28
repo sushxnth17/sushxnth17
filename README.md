@@ -33,7 +33,7 @@ I'm always interested in discovering new concepts, improving my skills, and work
 
 
 
-# 🌐 Socials
+#  Socials
 
 <p align="center">
   <a href="https://linkedin.com/in/sushanth17">
